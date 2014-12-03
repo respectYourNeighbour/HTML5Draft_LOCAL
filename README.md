@@ -7,7 +7,7 @@ Contains Local:
 - **Twitter Bootstrap.CSS** (v3.3.1);
 - **Normalize.css** (v3.0.2);
 - **Font Awesome**
-- **Google Fonts**
+- **Google Fonts** CDN;
 - CSS file included;
 - JS file included;
 
