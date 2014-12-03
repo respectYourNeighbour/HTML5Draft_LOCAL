@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Simple HTML5 Boilerplate/Draft/Setup/Template
 ==
 
@@ -11,3 +12,7 @@ Contains:
 - Local CSS file included;
 - Local JS file included;
 
+=======
+HTML5Draft_LOCAL
+================
+>>>>>>> 901e1fea2decd9ec4f26f2afad3958d2f2e5220e
